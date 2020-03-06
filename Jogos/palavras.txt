@@ -5,3 +5,12 @@ Guepardo
 Codorna
 Galinha
 Canguru
+Baleia
+Cavalo
+Crocodilo
+Golfinho
+Macaco
+Ovelha
+Papagaio
+Rinoceronte
+Tartarugas
